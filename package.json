@@ -28,7 +28,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "figlet": "^1.2.0",
     "fs": "0.0.2",
-    "generate-password": "^1.4.0",
+    "generate-password": "^1.4.1",
     "gifencoder": "^1.1.0",
     "google": "^2.1.0",
     "google-translate": "^2.2.0",
