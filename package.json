@@ -40,7 +40,7 @@
     "jimp": "^0.5.0",
     "js-robloxapi": "^1.0.6",
     "map": "^1.0.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "ms": "^2.1.1",
     "node": "^10.10.0",
